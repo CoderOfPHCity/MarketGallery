@@ -80,7 +80,7 @@ function Signin() {
             />
           </div>
 
-          <Link to='/forgot-password' className='forgotPasswordLink'>
+          <Link to='/ForgotPass' className='forgotPasswordLink'>
             Forgot Password
           </Link>
 
