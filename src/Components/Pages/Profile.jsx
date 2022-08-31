@@ -53,7 +53,7 @@ function Profile() {
         })
       })
 
-      setListings(listings)
+      setListings(listings) 
       setLoading(false)
     }
 
